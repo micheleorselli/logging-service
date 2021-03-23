@@ -2,7 +2,7 @@
   "name": "logger-service",
   "version": "1.0.0",
   "description": "a restful api for logging",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "jest",
     "coverage": "jest --collectCoverage"
